@@ -119,11 +119,3 @@ button::before {
     color: #264143;
     padding: 5px;
 }
-
-.logo {
-    font-size: 2rem;
-    font-weight: bold;
-    color: #dc3545;
-    text-align: center;
-    margin: 20px 0;
-}
